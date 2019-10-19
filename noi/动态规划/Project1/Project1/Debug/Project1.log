@@ -1,0 +1,1 @@
+﻿C:\Users\HT\AppData\Local\Microsoft\MSBuild\v4.0\Microsoft.Cpp.Win32.user.props(4,5): error MSB4019: 未找到导入的项目“C:\Users\HT\source\repos\Project1\Project1\PropertySheet.props”。请确认 <Import> 声明中的路径正确，且磁盘上存在该文件。
